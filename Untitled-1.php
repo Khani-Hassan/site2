@@ -42,7 +42,7 @@ $content.= '<p class="follow-us">ma ra donbal konid <a href="http://twitter.com/
 return $content;
 
 }
-
+//ye comment mizaram bara branch ver2eee
 // Hook our function to WordPress the_content filter
 
 add_filter('the_content', 'wpb_follow_us');
