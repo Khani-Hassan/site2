@@ -1,2 +1,3 @@
 forignore/
 *.docx
+!a.docx
